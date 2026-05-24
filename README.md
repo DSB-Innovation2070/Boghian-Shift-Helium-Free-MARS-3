@@ -17,9 +17,13 @@ The **Boghian-Shift Theorem**, the **Magnetic Cascade Synchronization Logic**, a
 * **Official DOI:** [10.5281/zenodo.18819431](https://doi.org/10.5281/zenodo.18819431)
 
 ### 2.2 Licensing
-This documentation is published under the **Creative Commons Attribution 4.0 International (CC-BY-4.0)** license. 
-* **Usage:** Any academic, industrial, or commercial use of the formulas, diagrams, or conceptual logic presented here **must** provide full attribution to the author (Boghian) and cite the DOI mentioned above.
-* **Restrictions:** Unauthorized re-branding or claiming of the original "Boghian-Shift" mathematical proof is strictly prohibited.
+This documentation and the conceptual framework herein are published under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
+
+Usage: Permission is granted to download, view, and share this work for academic, educational, or personal research purposes, provided that full attribution is given to the author (Daniel Silviu Boghian) and the official DOI is properly cited.
+
+Restrictions: 
+- Commercial Use Prohibited: Any commercial or industrial exploitation of the formulas, diagrams, pseudocode, or conceptual logic presented in this architecture is strictly prohibited without explicit, written contractual consent from the author.
+- No Derivatives: Unauthorized modification, remixing, re-branding, or claiming of the original "Boghian-Shift" mathematical proof, the AXION layer, or the OMEGA system specifications is strictly prohibited.
 
 ---
 
